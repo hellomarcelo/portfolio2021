@@ -54,6 +54,10 @@ small, .text_small {font-size: 0.8rem;}
   padding-bottom: 5em;
 }
 
+.case-yellow-portrait {
+  background-color: #f1ff9f !important;
+}
+
 .case-yellow {
   background-color: #FCFFE7 !important;
 }
