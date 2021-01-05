@@ -38,6 +38,10 @@ h5 {font-size: 1.25rem;}
 
 small, .text_small {font-size: 0.8rem;}
 
+.purple-small{
+  color: #3826B6;
+}
+
 .pt-120 {
   padding-top: 7.5em;
 }
