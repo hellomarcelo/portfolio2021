@@ -58,6 +58,9 @@ small, .text_small {font-size: 0.8rem;}
   padding-bottom: 5em;
 }
 
+.mt-32 {
+  margin-top: 2em;
+}
 .case-yellow-portrait {
   background-color: #f1ff9f !important;
 }
@@ -68,6 +71,14 @@ small, .text_small {font-size: 0.8rem;}
 
 .case-purple {
   background-color: #C8C1F7 !important;
+}
+
+.case-pink {
+  background-color: #F7C7E0 !important;
+}
+
+.case-pink-2 {
+  background-color: #FBE3F0 !important;
 }
 
 .nav-texto{
@@ -126,7 +137,7 @@ small, .text_small {font-size: 0.8rem;}
 }
 
 .bg-x {
-  padding: 3em 2em 3em 2em;
+  padding: 3em 0em 3em 2em;
   margin-bottom: 4em;
 }
 
